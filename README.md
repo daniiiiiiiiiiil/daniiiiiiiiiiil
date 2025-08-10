@@ -35,6 +35,7 @@
 - Подробно изучаю JavaScript 
 - Изучаю продвинутые техники работы с базами данных и сетью
 - Совершенствую навыки в разработке коммерческим приложений и игр
+![Stats](https://github-readme-stats.vercel.app/api?username=daniiiiiiiiiiil&show_icons=true&theme=radical)
 
 ### 📫 Как связаться
 [Telegram](https://t.me/weqrete) [Whatsapp](http://wa.me/79042017869) или на почту: napalkov-danil@list.ru
