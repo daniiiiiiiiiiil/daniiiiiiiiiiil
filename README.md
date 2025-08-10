@@ -44,8 +44,7 @@
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=daniiiiiiiiiiil&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiiiiiiiil&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiiiiiiiil&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiiiiiiiil&layout=compact&hide=html,css&theme=radical)
 
 
 ### 📫 Как связаться
