@@ -4,9 +4,8 @@
 ### 🎓 **Курсы**  
 **🎮 Колледж будущего: Разработка игр на PyGame/Python** *(2023-2024)*  
 - ✅ 4 этапа | 🏆 4 экзамена  
-- **Навыки:** `Python` `Pygame` `2D-графика` `Геймдизайн`  
-- **Проект:** [Платформер](ссылка) 
-
+- **Навыки:** `Python` `Pygame` `2D-графика` `Геймдизайн`
+  
 ### 🛠 Технологии и инструменты
 **Языки программирования:**  
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
