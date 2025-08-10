@@ -1,5 +1,5 @@
 ### 👨‍💻 Обо мне
-Я студент 3 курса IT колледжа TOP (2023-2024), активно развиваюсь в сфере разработки ПО. Прошел курс по разработке игр на Python/Pygame. Имею опыт в создании проектов разной сложности, от веб-приложений до игр и мобильных решений.
+Я студент 3 курса IT колледжа TOP, активно развиваюсь в сфере разработки ПО. Прошел курс по разработке игр на Python/Pygame(2023-2024). Имею опыт в создании проектов разной сложности, от веб-приложений до коммерческих онлайн приложений и мобильных решений.
 
 ### 🛠 Технологии и инструменты
 **Языки программирования:**  
@@ -11,8 +11,16 @@
 **Базы данных:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)  
 
+**Облачные сервисы:**  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) 
+
+**Сеть:**  
+![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white) 
+![System.Net.Sockets](https://img.shields.io/badge/-System.Net.Sockets-512BD4?logo=.net&logoColor=white)
+
 **Игровые технологии:**  
 ![Unity](https://img.shields.io/badge/-Unity-FFFFFF?logo=unity&logoColor=black) (2D/3D)  
+![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white)  
 
 **Инструменты:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
