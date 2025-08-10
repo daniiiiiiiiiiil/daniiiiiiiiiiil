@@ -30,6 +30,15 @@
 **Инструменты:**  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
 
+📐 UML Диаграммы
+Доступные диаграммы:
+
+- Диаграммы - вариантов использования, последовательности, состояний, деятельности, классов, map
+https://drive.google.com/drive/folders/1JsBLzclQ8KX07gHV7htqRGFTXEEHmYfa
+
+- Диаграмма моего онлайн магазина c#
+https://miro.com/app/board/uXjVIqj6p4o=/
+
 ### 🚀 Ключевые проекты
 1. [Online Shop Pet Project](https://github.com/daniiiiiiiiiiil/Online_Shop_Pet_Project) - полноценный интернет-магазин (мой главный проект)
 2. [Учет личных финансов](https://github.com/daniiiiiiiiiiil/Accounting-for-personal-finances-PET-project) - система управления финансами
