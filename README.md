@@ -26,6 +26,9 @@
 **Облачные сервисы:**  
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) 
 
+**Форматы данных:**  
+[![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)](https://www.json.org)
+
 **Сеть:**  
 ![WebSocket](https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white) 
 ![System.Net.Sockets](https://img.shields.io/badge/-System.Net.Sockets-512BD4?logo=.net&logoColor=white)
