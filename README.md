@@ -11,8 +11,9 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 
 Платформы и фреймворки:
+
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-512BD4?logo=.net&logoColor=white)](https://docs.microsoft.com/ru-ru/dotnet/desktop/winforms/)
+![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-512BD4?logo=.net&logoColor=white)]
 [![WPF](https://img.shields.io/badge/-WPF-512BD4?logo=.net&logoColor=white)](https://docs.microsoft.com/ru-ru/dotnet/desktop/wpf/)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-512BD4?logo=android&logoColor=white)](https://developer.android.com/studio)
 
