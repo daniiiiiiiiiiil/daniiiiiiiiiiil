@@ -1,10 +1,31 @@
 ### 👨‍💻 Обо мне
 Я студент 3 курса IT колледжа TOP, активно развиваюсь в сфере разработки ПО. Имею опыт в создании проектов разной сложности, от веб-приложений до коммерческих онлайн приложений и мобильных решений.
 
-### 🎓 **Курсы**  
-**🎮 Код будущего: Разработка игр на PyGame/Python** *(2023-2024)*  
-- ✅ 4 этапа | 🏆 4 экзамена  
-- **Навыки:** `Python` `Pygame` `2D-графика` `Геймдизайн`
+## 🎓 Курсы
+
+### 🎮 Код будущего: Разработка игр на PyGame/Python (2023–2024)
+**✅ 4 этапа | 🏆 4 экзамена**
+
+**Приобретенные навыки:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pygame](https://img.shields.io/badge/Pygame-57A0D3?logo=pygame&logoColor=white)
+![2D Graphics](https://img.shields.io/badge/2D%20Graphics-FF6B6B?logo=opencv&logoColor=white)
+![Game Design](https://img.shields.io/badge/Game%20Design-8E44AD?logo=unity&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-FF9A3D?logo=java&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-1E90FF?logo=algorithm&logoColor=white)
+
+## 🏆 Соревнования
+
+### 📱 Алабуга 2025
+**Направление:** Мобильная разработка  
+**Цель:** Создание приложения Face ID  
+**🥇 Участие в соревнованиях по мобильной разработке**
+
+**Технологии:**
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?logo=android&logoColor=white)
+![Biometric API](https://img.shields.io/badge/Biometric%20API-FF6D6D?logo=security&logoColor=white)
+![CameraX](https://img.shields.io/badge/CameraX-00C853?logo=camera&logoColor=white)
   
 ### 🛠 Технологии и инструменты
 **Языки программирования:**  
