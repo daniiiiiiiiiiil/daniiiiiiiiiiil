@@ -82,7 +82,7 @@ https://drive.google.com/drive/folders/1JsBLzclQ8KX07gHV7htqRGFTXEEHmYfa
 - Совершенствую навыки в разработке коммерческим приложений и игр
   
 ![Stats](https://github-readme-stats.vercel.app/api?username=daniiiiiiiiiiil&show_icons=true&theme=radical&random=123)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiiiiiiiil&layout=compact&hide=html,css&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniiiiiiiiiiil&layout=compact&theme=radical)
 
 ### 📫 Как связаться
 [Telegram](https://t.me/weqrete) [Whatsapp](http://wa.me/79042017869) или на почту: napalkov-danil@list.ru
