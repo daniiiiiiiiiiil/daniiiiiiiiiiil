@@ -36,6 +36,8 @@
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
 ![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-512BD4?logo=.net&logoColor=white)
 [![WPF](https://img.shields.io/badge/-WPF-512BD4?logo=.net&logoColor=white)](https://docs.microsoft.com/ru-ru/dotnet/desktop/wpf/)(MVVM)
+[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)]
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)]
 
 **Веб-разработка:**  
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
