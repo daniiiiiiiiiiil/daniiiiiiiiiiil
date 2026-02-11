@@ -60,7 +60,7 @@
 ![Pygame](https://img.shields.io/badge/-Pygame-3776AB?logo=python&logoColor=white)  
 
 **Инструменты:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 📐 UML Диаграммы
 Доступные диаграммы:
