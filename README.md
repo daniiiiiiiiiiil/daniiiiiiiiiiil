@@ -46,6 +46,8 @@
 
 **Стек:** Go, gRPC, REST API, Kafka, PostgreSQL, Redis, MinIO, Prometheus, Jaeger, Swagger, Docker, CI/CD
 
+Работает на порту: http://185.125.200.63 TimeWeb
+
 Дополнительная информация в README файле проекта
 
 ## Практика
