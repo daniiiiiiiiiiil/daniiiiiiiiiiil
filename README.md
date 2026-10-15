@@ -1,3 +1,15 @@
+## Главный проект
+
+### [Finance Microservices](https://github.com/daniiiiiiiiiiil/finance-microservices)
+
+Учёт личных финансов на микросервисной архитектуре. 6 сервисов на Go, взаимодействие через gRPC и Kafka, оркестрируемая Saga для распределённых транзакций (удаление пользователя со всеми его данными в других сервисах), database-per-service (отдельная PostgreSQL под каждый домен), Redis для кэша и read-моделей, MinIO для хранения экспортированных отчётов. Полный стек observability — метрики в Prometheus, трейсинг в Jaeger, Swagger-документация REST API через grpc-gateway. CI/CD на GitHub Actions, деплой на Timeweb.
+
+**Стек:** Go, gRPC, REST API, Kafka, PostgreSQL, Redis, MinIO, Prometheus, Jaeger, Swagger, Docker, CI/CD
+
+Работает на порту: http://185.125.200.63 TimeWeb
+
+Дополнительная информация в README файле проекта
+
 ## Хакатоны
 
 ### Tula — платформа для помощи животным
@@ -15,7 +27,7 @@
 - Чат — частично
 - Авторизация — частично
 
-**Стек:** React, TypeScript, SCSS, HTML
+**Стек:** Java,Srpting Boot, React, TypeScript, SCSS, HTML
 
 [github.com/SVEND-1/Tula](https://github.com/SVEND-1/Tula)
 
@@ -32,23 +44,11 @@
 - Чат поддержки на WebSocket
 - Создание тикета в поддержку
 
-**Стек:** React, TypeScript, WebSocket, SCSS, HTML
+**Стек:** Java,Srpting Boot, React, TypeScript, WebSocket, SCSS, HTML
 
 [github.com/SVEND-1/Chat-AI](https://github.com/SVEND-1/Chat-AI)
 
 Ссылка на сам хакатон: https://changellenge.com/championships/changellenge-cup-russia-2026/?utm_source=ip&utm_medium=jobs_juniors_remote&utm_campaign=tg-post&erid=2W5zFK969BP
-
-## Главный проект
-
-### [Finance Microservices](https://github.com/daniiiiiiiiiiil/finance-microservices)
-
-Учёт личных финансов на микросервисной архитектуре. 6 сервисов на Go, взаимодействие через gRPC и Kafka, оркестрируемая Saga для распределённых транзакций (удаление пользователя со всеми его данными в других сервисах), database-per-service (отдельная PostgreSQL под каждый домен), Redis для кэша и read-моделей, MinIO для хранения экспортированных отчётов. Полный стек observability — метрики в Prometheus, трейсинг в Jaeger, Swagger-документация REST API через grpc-gateway. CI/CD на GitHub Actions, деплой на Timeweb.
-
-**Стек:** Go, gRPC, REST API, Kafka, PostgreSQL, Redis, MinIO, Prometheus, Jaeger, Swagger, Docker, CI/CD
-
-Работает на порту: http://185.125.200.63 TimeWeb
-
-Дополнительная информация в README файле проекта
 
 ## Практика
 
