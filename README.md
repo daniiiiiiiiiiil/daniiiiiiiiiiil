@@ -2,20 +2,36 @@
 
 ### [Finance Microservices](https://github.com/daniiiiiiiiiiil/finance-microservices)
 
-Учёт личных финансов на микросервисной архитектуре. 6 сервисов на Go, взаимодействие через gRPC и Kafka, оркестрируемая Saga для распределённых транзакций (удаление пользователя со всеми его данными в других сервисах), database-per-service (отдельная PostgreSQL под каждый домен), Redis для кэша и read-моделей, MinIO для хранения экспортированных отчётов. Полный стек observability — метрики в Prometheus, трейсинг в Jaeger, Swagger-документация REST API через grpc-gateway. CI/CD на GitHub Actions, деплой на Timeweb.
+Учёт личных финансов на микросервисной архитектуре. 9 сервисов на Go, взаимодействие через gRPC и Kafka, оркестрируемая Saga для распределённых транзакций (удаление пользователя со всеми его данными в других сервисах), database-per-service (отдельная PostgreSQL под каждый домен), Redis для кэша и read-моделей, MinIO для хранения экспортированных отчётов. Полный стек observability — метрики в Prometheus, трейсинг в Jaeger, Swagger-документация REST API через grpc-gateway. CI/CD на GitHub Actions, деплой на Timeweb.
 
 **Стек:** Go, gRPC, REST API, Kafka, PostgreSQL, Redis, MinIO, Prometheus, Jaeger, Swagger, Docker, CI/CD
 
 Работает на порту: http://185.125.200.63 TimeWeb
 
-Дополнительная информация в README файле проекта
+Дополнительная информация в README проекта
 
 ## Хакатоны
 
-### Tula — платформа для помощи животным
-**Хакатон, команда из 5 человек (3 фронтенда, 2 бэкенда) | Team Lead фронтенда**
+### Ostrovok Hackathon "O!Хакатон" 2026 (Трек «Один запрос») — AI Travel Planner
+**Хакатон, команда из 5 человек (2 Go-разработчика, фронтенд, PM, аналитик)**
 
-Тиндер для животных: свайп-подбор питомцев из приютов. Отвечал за фронтенд-часть команды и распределял задачи между фронтендерами.
+Ведущий Go-бэкенд разработчик.
+
+**Что сделал:**
+- Спроектировал микросервисную архитектуру из 5 сервисов (Gateway, AI, Hotel, Session, Checkout) с взаимодействием по gRPC
+- Реализовал AI-сервис (LLM Orchestrator) на Groq API: Function Calling, парсинг ответов, защита от галлюцинаций
+- Разработал поиск отелей и транспорта с передачей гео-координат (lat/lng) по всей цепочке для интеграции с картами
+- Внедрил Saga через Kafka для распределённого бронирования с идемпотентностью и компенсирующими транзакциями
+- Организовал хранение сессий в Redis и данных в PostgreSQL; упаковал в Docker Compose и развернул демо через Cloudflare Tunnel
+
+**Стек:** Go, gRPC, Kafka, PostgreSQL, Redis, Docker, REST, SSE, Groq API
+
+[github.com/ostrovok-hackathon-2026/skrinio](https://github.com/ostrovok-hackathon-2026/skrinio)
+
+### Tula — платформа для помощи животным
+**Хакатон, команда из 5 человек (3 фронтенда, 2 бэкенда)**
+
+Тиндер для животных: свайп-подбор питомцев из приютов.
 
 **Что сделал:**
 - Главная страница
@@ -27,14 +43,14 @@
 - Чат — частично
 - Авторизация — частично
 
-**Стек:** Java,Srpting Boot, React, TypeScript, SCSS, HTML
+**Стек:** Java, Spring Boot, React, TypeScript, SCSS, HTML
 
 [github.com/SVEND-1/Tula](https://github.com/SVEND-1/Tula)
 
 Ссылка на сам хакатон: https://hackrus.ru/1136
 
 ### Chat-AI — чат с нейросетью
-**Хакатон | Frontend (React/TS)**
+**Хакатон**
 
 Приложение с чатом на базе нейросети и системой поддержки пользователей.
 
@@ -44,7 +60,7 @@
 - Чат поддержки на WebSocket
 - Создание тикета в поддержку
 
-**Стек:** Java,Srpting Boot, React, TypeScript, WebSocket, SCSS, HTML
+**Стек:** Java, Spring Boot, React, TypeScript, WebSocket, SCSS, HTML
 
 [github.com/SVEND-1/Chat-AI](https://github.com/SVEND-1/Chat-AI)
 
@@ -124,9 +140,6 @@
 - Диаграммы — вариантов использования, последовательности, состояний, деятельности, классов, map  
   https://drive.google.com/drive/folders/1JsBLzclQ8KX07gHV7htqRGFTXEEHmYfa
 
-## Другие проекты
-
-1. [Library](https://github.com/daniiiiiiiiiiil/Library) — система управления библиотекой: Go + React
 
 ## Как связаться
 
