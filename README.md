@@ -2,7 +2,7 @@
 
 ### [Finance Microservices](https://github.com/daniiiiiiiiiiil/finance-microservices)
 
-Учёт личных финансов на микросервисной архитектуре. 9 сервисов на Go, взаимодействие через gRPC и Kafka, оркестрируемая Saga для распределённых транзакций (удаление пользователя со всеми его данными в других сервисах), database-per-service (отдельная PostgreSQL под каждый домен), Redis для кэша и read-моделей, MinIO для хранения экспортированных отчётов. Полный стек observability — метрики в Prometheus, трейсинг в Jaeger, Swagger-документация REST API через grpc-gateway. CI/CD на GitHub Actions, деплой на Timeweb.
+Учёт личных финансов на микросервисной архитектуре. 9 сервисов на Go, взаимодействие через gRPC и Kafka, оркестрируемая Saga для распределённых транзакций (удаление пользователя со всеми его данными в других сервисах), database-per-service (отдельная PostgreSQL под каждый домен), Redis для кэша и read-моделей, MinIO для хранения экспортированных отчётов. Полный стек observability — метрики в Prometheus, трейсинг в Jaeger, Swagger-документация REST API через grpc-gateway. CI/CD на GitHub Actions, деплой на Timeweb
 
 **Стек:** Go, gRPC, REST API, Kafka, PostgreSQL, Redis, MinIO, Prometheus, Jaeger, Swagger, Docker, CI/CD
 
